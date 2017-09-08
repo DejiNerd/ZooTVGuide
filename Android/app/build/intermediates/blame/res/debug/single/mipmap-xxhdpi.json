@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/dab.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/mipmap-xxhdpi/dab.png"
+    }
+]

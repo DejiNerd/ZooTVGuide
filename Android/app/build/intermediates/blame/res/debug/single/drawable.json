@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/ayodeji/.android/build-cache/f45c34a475ee300974a57085b6996264801fa002/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/hgtv_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/hgtv_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/nbc_hd_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/nbc_hd_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/ifc_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/ifc_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/ayodeji/.android/build-cache/f45c34a475ee300974a57085b6996264801fa002/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/spike_tv_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/spike_tv_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/golf_channel.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/golf_channel.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/vh1_soul_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/vh1_soul_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/bbc_america_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/bbc_america_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cloo_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cloo_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_family_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/abc_family_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/nesn_hd.jpg",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/nesn_hd.jpg"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cspan_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cspan_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/ayodeji/.android/build-cache/f45c34a475ee300974a57085b6996264801fa002/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/comcast.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/comcast.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/e_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/e_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/mtvu.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/mtvu.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/ayodeji/.android/build-cache/f45c34a475ee300974a57085b6996264801fa002/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/telemundo_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/telemundo_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/tlc_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/tlc_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/ic_search_white_24dp.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/tbs.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/tbs.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/msnbc_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/msnbc_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/unavailable.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/unavailable.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/fx.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/fx.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/fox_college_sport.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/fox_college_sport.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/fox_news_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/fox_news_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/ayodeji/.android/build-cache/d7b3c016f18339722f129b72c14ba8f2cb83e669/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cbs_sports_network_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cbs_sports_network_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/wwlp_cw.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/wwlp_cw.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/science.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/science.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/tnt_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/tnt_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/nfl_network.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/nfl_network.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/wsbk_38.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/wsbk_38.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cbs_hd_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cbs_hd_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/tru_tv.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/tru_tv.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/ayodeji/.android/build-cache/f45c34a475ee300974a57085b6996264801fa002/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/lifetime.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/lifetime.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/hbo_signature_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/hbo_signature_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/ayodeji/.android/build-cache/d7b3c016f18339722f129b72c14ba8f2cb83e669/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/espnews_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/espnews_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_hd_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/abc_hd_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/national_geographic_channel_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/national_geographic_channel_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/fit_tv.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/fit_tv.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/ayodeji/.android/build-cache/f45c34a475ee300974a57085b6996264801fa002/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/gsn.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/gsn.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/mtv2_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/mtv2_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/food_network_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/food_network_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/wgby.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/wgby.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cspan2_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cspan2_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/bet_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/bet_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/animal_planet_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/animal_planet_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cozi.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cozi.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/nickelodeon_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/nickelodeon_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cctv4.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cctv4.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/tvland.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/tvland.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/fox_hd_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/fox_hd_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/we_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/we_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/ayodeji/.android/build-cache/f45c34a475ee300974a57085b6996264801fa002/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cnbc_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cnbc_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/the_weather_channel_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/the_weather_channel_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/espn_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/espn_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cartoon_network_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cartoon_network_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/vh1.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/vh1.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/hln_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/hln_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/discovery_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/discovery_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/espn_classic_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/espn_classic_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/bravo_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/bravo_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/tvjapan.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/tvjapan.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/ayodeji/.android/build-cache/d7b3c016f18339722f129b72c14ba8f2cb83e669/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/ae_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/ae_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/fox_sports_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/fox_sports_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/mtv_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/mtv_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/ic_search_white_48dp.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/ic_search_white_48dp.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/disney_channel_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/disney_channel_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/history_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/history_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/comedy_central_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/comedy_central_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/nbc_sport_versus.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/nbc_sport_versus.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/usa_network_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/usa_network_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/own.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/own.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cnn_usa_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cnn_usa_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/hbo_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/hbo_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/wtic_fox_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/wtic_fox_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/amc_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/amc_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/travel_ch_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/travel_ch_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/necn.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/necn.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/espnu.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/espnu.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/ayodeji/.android/build-cache/d7b3c016f18339722f129b72c14ba8f2cb83e669/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/cmt_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/cmt_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/univision.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/univision.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/syfy_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/syfy_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/ayodeji/.android/build-cache/f45c34a475ee300974a57085b6996264801fa002/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/dw.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/dw.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/ic_search_white_18dp.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/ic_search_white_18dp.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/espn2_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/espn2_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/hbo2_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/hbo2_color.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/ayodeji/.android/build-cache/f5fc0e9359bebd9f734f25854b78b26d1c4650ba/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/ic_search_white_36dp.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/ic_search_white_36dp.png"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/drawable/hbo_family_color.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/drawable/hbo_family_color.png"
+    }
+]

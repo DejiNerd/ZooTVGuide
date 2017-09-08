@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zoo TV guide</string>
+    <string name="_1">1</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="search_hint">HBO</string>
+    <string name="menu_refresh">refresh</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7394787713757498/8475326764</string>
+
+</resources>

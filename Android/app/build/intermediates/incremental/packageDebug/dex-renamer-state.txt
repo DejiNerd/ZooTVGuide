@@ -1,0 +1,7 @@
+#Mon Aug 28 01:01:51 EDT 2017
+base.0=/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6aee22a3287336271c248c960c8b9fefd3a19bb9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f33d6088ffbc0d3b2e8be36d4a3d5d40e31749e2/classes.dex
+base.1=/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f33d6088ffbc0d3b2e8be36d4a3d5d40e31749e2
+file.0=/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6aee22a3287336271c248c960c8b9fefd3a19bb9/classes.dex
