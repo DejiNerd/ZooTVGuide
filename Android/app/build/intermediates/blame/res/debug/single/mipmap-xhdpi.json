@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/dab.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/res/mipmap-xhdpi/dab.png"
     },
     {
-        "merged": "/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/res/merged/debug/mipmap-xhdpi/dab.png",
-        "source": "/home/ayodeji/Projects/UMassTVGuide/app/src/main/res/mipmap-xhdpi/dab.png"
+        "merged": "/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]

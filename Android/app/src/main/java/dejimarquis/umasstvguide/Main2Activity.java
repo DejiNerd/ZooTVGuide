@@ -11,36 +11,44 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
+import android.widget.ExpandableListView;
 import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.HashMap;
 
 
 public class Main2Activity extends AppCompatActivity {
 
-    private final String URL = "http://tvlistings.zap2it.com/tvlistings/ZCGrid.do?method=decideFwdForLineup&zipcode=01003&setMyPreference=false&lineupId=MA69873:-";
-    private ListView listViewTwo;
-    private String[] string;
+    private final String URL = "https://damp-depths-69812.herokuapp.com/schedule";
+    private ExpandableListView expandableListView;
     private Context context;
     private int channelIndex;
-    private String movieTitles;
-    private ArrayAdapter adapter;
-    private int[] mapping;
+    private HashMap<String, ArrayList<String>> listings;
+    private ArrayList<String> listingsTitle;
+    private String channelName;
+    private String jsonData = "";
     private SwipeRefreshLayout swipeRefresh;
     private ListingDownload listingDownload;
     private AdView mAdView;
+    private HttpURLConnection httpURLConnection;
+    private InputStream inputStream;
     private java.sql.Time initTime;
 
     @Override
@@ -50,7 +58,8 @@ public class Main2Activity extends AppCompatActivity {
         getSupportActionBar().setHomeButtonEnabled(true);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         channelIndex = getIntent().getExtras().getInt("channelIndex");
-        setTitle(getIntent().getExtras().getString("channelName"));
+        channelName = getIntent().getExtras().getString("channelName");
+        setTitle(channelName);
 
         //initialize ads
         MobileAds.initialize(getApplicationContext(), "ca-app-pub-7394787713757498~4045127165");
@@ -58,8 +67,9 @@ public class Main2Activity extends AppCompatActivity {
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
 
-        listViewTwo = (ListView) findViewById(R.id.listViews);
         swipeRefresh = (SwipeRefreshLayout) findViewById(R.id.swipeRefresh);
+        expandableListView = (ExpandableListView) findViewById(R.id.expandableListView);
+        //listViewTwo = (ListView) findViewById(R.id.listViews);
         context = this;
         listingDownload = new ListingDownload();
         listingDownload.execute(URL);
@@ -82,53 +92,65 @@ public class Main2Activity extends AppCompatActivity {
         );
     }
 
-    public class ListingDownload extends AsyncTask<String, Integer, String> {
+    public class ListingDownload extends AsyncTask<String, Integer, HashMap<String, ArrayList<String>>> {
         @Override
-        protected String doInBackground(String... strings) {
-            movieTitles = "";
-            if (mapping == null) {
-                ChannelData temp = new ChannelData();
-                mapping = temp.getChannelMapping();
-            }
-            if (mapping[channelIndex] == -1) return "N/A";
+        protected HashMap<String,ArrayList<String>> doInBackground(String... strings) {
+            JSONObject channelJson;
+            URL url = null;
             try {
-                SimpleDateFormat format = new SimpleDateFormat("hh:mm a"); //if 24 hour format
-
-                final Document document = Jsoup.connect(strings[0]).get();
-                if (document != null) {
-                    Element row = document.select("div#zc-grid tr").get(mapping[channelIndex]);
-                    Elements initialTime = document.select("div.zc-tn");
-                    try {
-                        java.util.Date d1 = format.parse(initialTime.select("div.zc-tn-c").first().select("div.zc-tn-t").first().text());
-                        initTime = new java.sql.Time(d1.getTime());
-                    } catch (Exception e) {
-                        Log.e("Exception is ", e.toString());
-                    }
-                    Elements timeVariable = row.select(".zc-pg");
-                    double[] converter = new double[row.select(".zc-pg").size() - 1];
-                    for (int i = 0; i < row.select(".zc-pg").size(); i++) {
-                        if (i + 1 != row.select(".zc-pg").size()) {
-                            converter[i] = Double.parseDouble(timeVariable.get(i).attr("style").substring(6, 10));
-                        }
-                        if (row.select(".zc-pg").get(i) != null) {
-                            if (i == 0) {
-                                movieTitles += "Now               " + row.select(".zc-pg").get(i).select(".zc-pg-t").text() + "\n" + "                        " + row.select(".zc-pg").get(i).select(".zc-pg-y").text()
-                                        + row.select(".zc-pg").get(i).select(".zc-pg-e").text() + "*";
-                            } else {
-                                long addedTime = (long) (converter[i - 1] * (60 / 30.7) * 60000);
-                                initTime.setTime(initTime.getTime() + addedTime);
-                                String time = format.format(initTime);
-                                movieTitles += time + "        " + row.select(".zc-pg").get(i).select(".zc-pg-t").text() + "\n" + "                         " + row.select(".zc-pg").get(i).select(".zc-pg-y").text()
-                                        + row.select(".zc-pg").get(i).select(".zc-pg-e").text() + "*";
-                            }
-                        }
-                    }
-                } else movieTitles = "Not available";
-            } catch (IOException e) {
-                movieTitles = "Not available";
+                url = new URL("https://damp-depths-69812.herokuapp.com/schedule");
+            } catch (MalformedURLException e) {
                 e.printStackTrace();
             }
-            return movieTitles;
+            try {
+                httpURLConnection = (HttpURLConnection) url.openConnection();
+                inputStream = httpURLConnection.getInputStream();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
+            String line = "";
+
+            while(line != null) {
+                try {
+                    line = bufferedReader.readLine();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+                jsonData = jsonData + line;
+            }
+            Log.d("JSON", jsonData);
+            String debug = "";
+            JSONArray channelsArray;
+            try {
+                channelJson = new JSONObject(jsonData);
+                channelsArray = channelJson.getJSONArray("channels");
+                JSONArray showings = channelsArray.getJSONObject(channelIndex).getJSONArray("showings");
+                listings = new HashMap<>();
+                listingsTitle = new ArrayList<>();
+                ArrayList<String> listingsDescription = new ArrayList<>();
+                for (int i = 0; i < showings.length(); i++){
+                    //listingsDescription.add("Length: " + showings.getJSONObject(i).getInt("length"));
+                    Log.d("ugggg!!!!!!!!!!!!!",  showings.getJSONObject(i).getString("year"));
+                    debug = showings.getJSONObject(i).getString("year");
+                    listingsDescription.add("Year: " + showings.getJSONObject(i).getString("year"));
+                    listingsDescription.add("Subtitle: " + showings.getJSONObject(i).getString("subtitle"));
+                    listingsDescription.add("Description: " + showings.getJSONObject(i).getString("description"));
+
+//                    listingsDescription.put("length", showings.getJSONObject(i).getInt("length")+"");
+//                    listingsDescription.put("year", showings.getJSONObject(i).getString("year"));
+//                    listingsDescription.put("subtitle", showings.getJSONObject(i).getString("subtitle"));
+//                    listingsDescription.put("description", showings.getJSONObject(i).getString("description"));
+                    listingsTitle.add(showings.getJSONObject(i).getString("title"));
+                    listings.put(showings.getJSONObject(i).getString("title"),listingsDescription);
+                }
+
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+            //TODO: Make time more interpretable and third showing doesn't show length
+            return listings;
         }
 
         @Override
@@ -137,15 +159,13 @@ public class Main2Activity extends AppCompatActivity {
         }
 
         @Override
-        protected void onPostExecute(String s) {
-            super.onPostExecute(s);
-            if ((s.compareTo("Not available") == 0) || (s == null)) {
+        protected void onPostExecute(HashMap<String, ArrayList<String>> s) {
+            if (s == null) {
                 Toast.makeText(context, "Connection Lost. Swipe to refresh", Toast.LENGTH_LONG).show();
                 swipeRefresh.setRefreshing(false);
             } else {
-                string = s.split("\\*");
-                adapter = new ArrayAdapter<>(context, android.R.layout.simple_list_item_1, string);
-                listViewTwo.setAdapter(adapter);
+                CustomExpandableListAdapter expandableListAdapter = new CustomExpandableListAdapter(context, listingsTitle, listings);
+                expandableListView.setAdapter(expandableListAdapter);
                 swipeRefresh.setRefreshing(false);
                 //an hr is 300
             }

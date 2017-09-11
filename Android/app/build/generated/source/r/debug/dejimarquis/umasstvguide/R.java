@@ -1889,6 +1889,7 @@ containing a value of this type.
         public static final int end=0x7f0d001a;
         public static final int end_padder=0x7f0d0069;
         public static final int expand_activities_button=0x7f0d002d;
+        public static final int expandableListView=0x7f0d005b;
         public static final int expanded_menu=0x7f0d0040;
         public static final int home=0x7f0d0004;
         public static final int homeAsUp=0x7f0d000d;
@@ -1903,10 +1904,9 @@ containing a value of this type.
         public static final int line3=0x7f0d0066;
         public static final int listMode=0x7f0d0009;
         public static final int listView=0x7f0d0058;
-        public static final int listViews=0x7f0d005b;
         public static final int list_item=0x7f0d0030;
         public static final int media_actions=0x7f0d0060;
-        public static final int menu_refresh=0x7f0d006e;
+        public static final int menu_refresh=0x7f0d0070;
         public static final int middle=0x7f0d001b;
         public static final int multiply=0x7f0d0014;
         public static final int never=0x7f0d0021;
@@ -1920,7 +1920,7 @@ containing a value of this type.
         public static final int scrollIndicatorDown=0x7f0d003d;
         public static final int scrollIndicatorUp=0x7f0d003a;
         public static final int scrollView=0x7f0d003b;
-        public static final int search=0x7f0d006d;
+        public static final int search=0x7f0d006f;
         public static final int search_badge=0x7f0d004d;
         public static final int search_bar=0x7f0d004c;
         public static final int search_button=0x7f0d004e;
@@ -1936,6 +1936,8 @@ containing a value of this type.
         public static final int showCustom=0x7f0d000f;
         public static final int showHome=0x7f0d0010;
         public static final int showTitle=0x7f0d0011;
+        public static final int showings=0x7f0d006d;
+        public static final int showings_description=0x7f0d006e;
         public static final int spacer=0x7f0d0034;
         public static final int split_action_bar=0x7f0d0007;
         public static final int src_atop=0x7f0d0016;
@@ -2007,7 +2009,9 @@ containing a value of this type.
         public static final int select_dialog_item_material=0x7f040024;
         public static final int select_dialog_multichoice_material=0x7f040025;
         public static final int select_dialog_singlechoice_material=0x7f040026;
-        public static final int support_simple_spinner_dropdown_item=0x7f040027;
+        public static final int showings=0x7f040027;
+        public static final int showings_description=0x7f040028;
+        public static final int support_simple_spinner_dropdown_item=0x7f040029;
     }
     public static final class menu {
         public static final int menu_main=0x7f0e0000;

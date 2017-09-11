@@ -1,94 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="23"
+    api-level="26"
     build-mode="COLD"
-    density="xhdpi"
+    density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1503897343024"
-    token="-5994007695836166973"
+    timestamp="1505172505745"
+    token="8027416338631148916"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="309" />
+        duration="118" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="79" />
+        duration="38" />
     <task
         name="verifier"
-        duration="39" />
+        duration="14" />
 
     <artifact
-        location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
-    <artifact
-        location="/home/ayodeji/Projects/UMassTVGuide/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1503896488192"
+        timestamp="1505172173429"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1503897001535"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/outputs/apk/app-debug.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1503897343024"
+        timestamp="1505172505745"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

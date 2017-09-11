@@ -1,28 +1,28 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:2:1-34:12
+ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:3:5-39
-		INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:4:5-66
+ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:4:5-66
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/ayodeji/.android/build-cache/052045eedcf4aa260adcf752bf5ebaf780dd286f/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/ayodeji/.android/build-cache/febedf065347dc378e507a7ed0197007929fbf09/output/AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/ayodeji/.android/build-cache/c91dd0d4489e48ae6375182890a816db0e1ebd43/output/AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/ayodeji/.android/build-cache/9e0117584f8a6898ad8388eb68aecbae02b1c42b/output/AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:6:5-32:19
+ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:6:5-32:19
 MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ayodeji/.android/build-cache/41fa9fd94844b9d1e21448f39a53887605afeea5/output/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ayodeji/.android/build-cache/7ea70804b0c4fc19b8b42745c45cbae9fc433c2d/output/AndroidManifest.xml:7:5-20
@@ -40,51 +40,51 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/ayodeji/.an
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/ayodeji/.android/build-cache/0c6a54f39e63f13e03c29fc629c9eeb6b10ce9e5/output/AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:23.4.0] /home/ayodeji/.android/build-cache/973b4886f423cbaf5317c14a1688390357a88b5f/output/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:9:9-41
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:11:9-35
 	android:allowBackup
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:8:9-35
 	android:largeHeap
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:10:9-33
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:10:9-33
 	android:theme
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:12:9-40
 activity#dejimarquis.umasstvguide.MainActivity
-ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:13:9-23:20
+ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:13:9-23:20
 	android:name
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:13:19-47
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:17:27-74
 meta-data#android.app.searchable
-ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:20:13-22:54
+ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:20:13-22:54
 	android:resource
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:22:17-51
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:22:17-51
 	android:name
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:21:17-54
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:21:17-54
 activity#dejimarquis.umasstvguide.Main2Activity
-ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:25:9-31:20
+ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:25:9-31:20
 	android:parentActivityName
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:26:13-55
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:26:13-55
 	android:name
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:25:19-48
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:25:19-48
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:28:13-30:49
+ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:28:13-30:49
 	android:value
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:30:17-46
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:30:17-46
 	android:name
-		ADDED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml:29:17-63
+		ADDED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml:29:17-63
 uses-sdk
-INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ayodeji/.android/build-cache/41fa9fd94844b9d1e21448f39a53887605afeea5/output/AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ayodeji/.android/build-cache/7ea70804b0c4fc19b8b42745c45cbae9fc433c2d/output/AndroidManifest.xml:5:5-43
@@ -105,11 +105,11 @@ MERGED from [com.android.support:support-v4:23.4.0] /home/ayodeji/.android/build
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ayodeji/Projects/UMassTVGuide/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/ayodeji/.android/build-cache/052045eedcf4aa260adcf752bf5ebaf780dd286f/output/AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/ayodeji/.android/build-cache/febedf065347dc378e507a7ed0197007929fbf09/output/AndroidManifest.xml:22:5-79

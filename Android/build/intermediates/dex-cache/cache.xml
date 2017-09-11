@@ -3,183 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/5ec9ce34ceec810a50a63086e7e134150c0b4a58/output/jars/classes.jar"
+        jar="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbf7b38a3ec3472310c58dcd4eb0f7c7b28ced06/classes.dex" />
+        sha1="c0df03a68f7000606af1114465e2ab761d03c568">
+        <dex dex="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_234bdd4962f4de6b7cc51e8e0a15ebe3d1ca888a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/0a659e68f56f6d09798e33ac35e5eb3e674c404d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20c15e4f9d41811fd7fe94714a6af02a257a8e70/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6aee22a3287336271c248c960c8b9fefd3a19bb9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/052045eedcf4aa260adcf752bf5ebaf780dd286f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e8462ca57188c445d433b3c26162e652c2df335/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/c91dd0d4489e48ae6375182890a816db0e1ebd43/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7273c9fbed324f4d49034a736f2935842de4a0f3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/7ea70804b0c4fc19b8b42745c45cbae9fc433c2d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b09003ebe49880a77ee882df95a525309dd36e50/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/fc293848846ee85a2bf4a1533f557415e1427a52/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f02ba23ae2652f7222587f2eb0611e1d7efd9234/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/febedf065347dc378e507a7ed0197007929fbf09/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c6baffecf1a018bb7e57b64fef1625bfdf9101b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/9c4be8b1cf835bd1f2f7540cc6abec9c3caa52a8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5b486d57b762f89e5797affeaace4d9386867b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/f45c34a475ee300974a57085b6996264801fa002/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24e6d2cfd3ee1bcde4c07368e94fab0b16c99730/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/87e74ba78e876cc97c47572c763ec546e472be4a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7102233c68e33f337bf251fcd20afb9dc2afec46/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/9e0117584f8a6898ad8388eb68aecbae02b1c42b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b7173b3df4c7029699919414400041f64519e34">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4cee586cb82786dab36ece64f66e663f8419ed71/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/973b4886f423cbaf5317c14a1688390357a88b5f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d1ed510412c4e37993f13fed5e65fec0e7af956/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/41fa9fd94844b9d1e21448f39a53887605afeea5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b457b283b5f4ff589b8915df74b307bebb211945/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/973b4886f423cbaf5317c14a1688390357a88b5f/output/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_722ea7152e1c040e0ac23ec20b9e5e219fcd5d4b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7641451dd37828ce1cc309192cf2094a88f5739d">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f33d6088ffbc0d3b2e8be36d4a3d5d40e31749e2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.1/645f1ad2f6f4cbad1cde4c483eae71e4051be6ef/jsoup-1.10.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="645f1ad2f6f4cbad1cde4c483eae71e4051be6ef">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.10.1_30b60e201dce00c757b98e4870ee824719bbf549/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/8616241c1962a9be79034fd4a75d26cb5ccf9edb/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cf66301a56df70ee6ec2cfce48ee5b9b85c4c63/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/.android/build-cache/0c6a54f39e63f13e03c29fc629c9eeb6b10ce9e5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88db8c31c2d93194f864c66ba087c0d96b56aa28/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayodeji/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/ayodeji/Projects/UMassTVGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_3977429fdc160008ebb297845690bbd1d6ff085b/classes.dex" />
+        <dex dex="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e52e3b77be5dbd0153b8d379c8e56c54fde21901/classes.dex" />
     </item>
 
 </items>
