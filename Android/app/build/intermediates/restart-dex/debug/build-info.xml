@@ -6,22 +6,22 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1505172505745"
+    timestamp="1505182837949"
     token="8027416338631148916"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="118" />
+        duration="198" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="38" />
+        duration="33" />
     <task
         name="verifier"
-        duration="14" />
+        duration="3" />
 
     <artifact
         location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
@@ -29,8 +29,11 @@
 
     <build
         build-mode="FULL"
-        timestamp="1505172173429"
+        timestamp="1505181696777"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
         <artifact
             location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
@@ -45,9 +48,6 @@
             type="SPLIT" />
         <artifact
             location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
@@ -70,7 +70,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1505172505745"
+        timestamp="1505182837949"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"

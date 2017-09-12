@@ -66,10 +66,8 @@ public class Main2Activity extends AppCompatActivity {
         mAdView = (AdView) findViewById(R.id.adView2);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
-
         swipeRefresh = (SwipeRefreshLayout) findViewById(R.id.swipeRefresh);
         expandableListView = (ExpandableListView) findViewById(R.id.expandableListView);
-        //listViewTwo = (ListView) findViewById(R.id.listViews);
         context = this;
         listingDownload = new ListingDownload();
         listingDownload.execute(URL);
@@ -129,19 +127,21 @@ public class Main2Activity extends AppCompatActivity {
                 JSONArray showings = channelsArray.getJSONObject(channelIndex).getJSONArray("showings");
                 listings = new HashMap<>();
                 listingsTitle = new ArrayList<>();
-                ArrayList<String> listingsDescription = new ArrayList<>();
                 for (int i = 0; i < showings.length(); i++){
+                    ArrayList<String> listingsDescription = new ArrayList<>();
                     //listingsDescription.add("Length: " + showings.getJSONObject(i).getInt("length"));
-                    Log.d("ugggg!!!!!!!!!!!!!",  showings.getJSONObject(i).getString("year"));
-                    debug = showings.getJSONObject(i).getString("year");
-                    listingsDescription.add("Year: " + showings.getJSONObject(i).getString("year"));
-                    listingsDescription.add("Subtitle: " + showings.getJSONObject(i).getString("subtitle"));
-                    listingsDescription.add("Description: " + showings.getJSONObject(i).getString("description"));
-
-//                    listingsDescription.put("length", showings.getJSONObject(i).getInt("length")+"");
-//                    listingsDescription.put("year", showings.getJSONObject(i).getString("year"));
-//                    listingsDescription.put("subtitle", showings.getJSONObject(i).getString("subtitle"));
-//                    listingsDescription.put("description", showings.getJSONObject(i).getString("description"));
+                    if (showings.getJSONObject(i).getString("year") != null && showings.getJSONObject(i).getString("year") !=""
+                            && showings.getJSONObject(i).getString("year").length() != 0){
+                        listingsDescription.add("Year: " + showings.getJSONObject(i).getString("year"));
+                    }
+                    if (showings.getJSONObject(i).getString("subtitle") != null && showings.getJSONObject(i).getString("subtitle") !=""
+                            && showings.getJSONObject(i).getString("subtitle").length() != 0){
+                        listingsDescription.add("Subtitle: " + showings.getJSONObject(i).getString("subtitle"));
+                    }
+                    if (showings.getJSONObject(i).getString("description") != null && showings.getJSONObject(i).getString("description") !=""
+                            && showings.getJSONObject(i).getString("description").length() != 0){
+                        listingsDescription.add("Description: " + showings.getJSONObject(i).getString("description"));
+                    }
                     listingsTitle.add(showings.getJSONObject(i).getString("title"));
                     listings.put(showings.getJSONObject(i).getString("title"),listingsDescription);
                 }
