@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/res/merged/debug/mipmap-mdpi/dab.png",
-        "source": "/home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/res/mipmap-mdpi/dab.png"
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/mipmap-mdpi/dab.png",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/mipmap-mdpi/dab.png"
     },
     {
-        "merged": "/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

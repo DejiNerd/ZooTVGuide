@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/res/menu/menu_main.xml"
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/menu/menu_main2.xml",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/menu/menu_main2.xml"
     },
     {
-        "merged": "/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/res/merged/debug/menu/menu_main2.xml",
-        "source": "/home/ayodeji/Projects/UMassTVGuide/Android/app/src/main/res/menu/menu_main2.xml"
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/menu/menu_main.xml"
     }
 ]

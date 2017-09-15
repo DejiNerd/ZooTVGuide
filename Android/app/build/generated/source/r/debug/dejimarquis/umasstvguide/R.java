@@ -1906,7 +1906,7 @@ containing a value of this type.
         public static final int listView=0x7f0d0058;
         public static final int list_item=0x7f0d0030;
         public static final int media_actions=0x7f0d0060;
-        public static final int menu_refresh=0x7f0d0070;
+        public static final int menu_refresh=0x7f0d0071;
         public static final int middle=0x7f0d001b;
         public static final int multiply=0x7f0d0014;
         public static final int never=0x7f0d0021;
@@ -1920,7 +1920,7 @@ containing a value of this type.
         public static final int scrollIndicatorDown=0x7f0d003d;
         public static final int scrollIndicatorUp=0x7f0d003a;
         public static final int scrollView=0x7f0d003b;
-        public static final int search=0x7f0d006f;
+        public static final int search=0x7f0d0070;
         public static final int search_badge=0x7f0d004d;
         public static final int search_bar=0x7f0d004c;
         public static final int search_button=0x7f0d004e;
@@ -1936,8 +1936,8 @@ containing a value of this type.
         public static final int showCustom=0x7f0d000f;
         public static final int showHome=0x7f0d0010;
         public static final int showTitle=0x7f0d0011;
-        public static final int showings=0x7f0d006d;
-        public static final int showings_description=0x7f0d006e;
+        public static final int showings=0x7f0d006e;
+        public static final int showings_description=0x7f0d006f;
         public static final int spacer=0x7f0d0034;
         public static final int split_action_bar=0x7f0d0007;
         public static final int src_atop=0x7f0d0016;
@@ -1952,6 +1952,7 @@ containing a value of this type.
         public static final int text2=0x7f0d0065;
         public static final int textSpacerNoButtons=0x7f0d003c;
         public static final int time=0x7f0d0063;
+        public static final int timez=0x7f0d006d;
         public static final int title=0x7f0d0032;
         public static final int title_template=0x7f0d0037;
         public static final int topPanel=0x7f0d0036;

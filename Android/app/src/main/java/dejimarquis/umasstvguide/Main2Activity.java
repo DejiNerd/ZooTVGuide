@@ -142,6 +142,7 @@ public class Main2Activity extends AppCompatActivity {
                             && showings.getJSONObject(i).getString("description").length() != 0){
                         listingsDescription.add("Description: " + showings.getJSONObject(i).getString("description"));
                     }
+                    listingsDescription.add(showings.getJSONObject(i).get("startTime").toString());
                     listingsTitle.add(showings.getJSONObject(i).getString("title"));
                     listings.put(showings.getJSONObject(i).getString("title"),listingsDescription);
                 }

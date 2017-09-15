@@ -1,7 +1,7 @@
-#Mon Sep 11 19:16:23 EDT 2017
-base.0=/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e52e3b77be5dbd0153b8d379c8e56c54fde21901
+#Fri Sep 15 02:18:24 EDT 2017
+base.0=/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_abe66469749e226562cf783043bc98f1cd3e7a5f
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_234bdd4962f4de6b7cc51e8e0a15ebe3d1ca888a/classes.dex
-base.1=/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_234bdd4962f4de6b7cc51e8e0a15ebe3d1ca888a
-file.0=/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e52e3b77be5dbd0153b8d379c8e56c54fde21901/classes.dex
+file.1=/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3466725b2a031ee8f407a3f05bfeb07653718722/classes.dex
+base.1=/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3466725b2a031ee8f407a3f05bfeb07653718722
+file.0=/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_abe66469749e226562cf783043bc98f1cd3e7a5f/classes.dex

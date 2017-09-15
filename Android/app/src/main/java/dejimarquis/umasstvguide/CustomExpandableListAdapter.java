@@ -4,22 +4,30 @@ package dejimarquis.umasstvguide;
  * Created by ayodeji on 9/11/17.
  */
 
+import java.sql.Time;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import android.content.Context;
 import android.graphics.Typeface;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.TextView;
 
+import static android.R.attr.format;
+
 public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
 
     private Context context;
     private List<String> expandableListTitle;
     private HashMap<String, ArrayList<String>> listings;
+    private java.util.Date d1;
 
     public CustomExpandableListAdapter(Context context, List<String> expandableListTitle,
                                        HashMap<String, ArrayList<String>> listings) {
@@ -85,8 +93,16 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
             convertView = layoutInflater.inflate(R.layout.showings, null);
         }
         TextView listTitleTextView = (TextView) convertView.findViewById(R.id.showings);
-        listTitleTextView.setTypeface(null, Typeface.BOLD);
+        TextView times = (TextView) convertView.findViewById(R.id.timez);
+        //listTitleTextView.setTypeface(null, Typeface.BOLD);
         listTitleTextView.setText(listTitle);
+
+        //time implementation
+        SimpleDateFormat format = new SimpleDateFormat("hh:mm a"); //if 24 hour format
+        java.sql.Time initTime = new java.sql.Time(Long.parseLong(listings.get(listTitle).get(listings.get(listTitle).size()-1)));
+        String time = format.format(initTime);
+        times.setText(time);
+
         return convertView;
     }
 

@@ -2,79 +2,87 @@
 <instant-run
     abi="x86"
     api-level="26"
-    build-mode="COLD"
+    build-mode="HOT_WARM"
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1505182837949"
-    token="8027416338631148916"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1505456565882"
+    token="3401121499356307935"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="198" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="33" />
+        duration="0" />
     <task
         name="verifier"
-        duration="3" />
+        duration="0" />
 
     <artifact
-        location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
+        location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         build-mode="FULL"
-        timestamp="1505181696777"
+        timestamp="1505456302818"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/outputs/apk/app-debug.apk"
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
     </build>
     <build
-        build-mode="COLD"
-        timestamp="1505182837949"
-        verifier="COLD_SWAP_REQUESTED" >
+        build-mode="HOT_WARM"
+        timestamp="1505456399250"
+        verifier="COMPATIBLE" >
         <artifact
-            location="/home/ayodeji/Projects/UMassTVGuide/Android/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/builds/debug/1505456399250/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1505456565882"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
