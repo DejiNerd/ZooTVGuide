@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-34:12
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
@@ -14,23 +14,25 @@ ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/Androi
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:4:5-66
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:5:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:6:5-32:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/e07724eefb712b1b2ce8f39e3b73f508ef92eab9/output/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/efd0835f219b0ed22aab0e656c5ee2ff425cc086/output/AndroidManifest.xml:7:5-20
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:7:5-35:19
 MERGED from [com.google.firebase:firebase-ads:9.4.0] /Users/ayodejimarquis/.android/build-cache/0fd5b9cbaa5772ee40c4fa9c314e0344648f33eb/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/ayodejimarquis/.android/build-cache/ea08ab0472feed05c56033096ef14afb25d895dc/output/AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.android/build-cache/0df828ec674a7fa496a2de6039e9dbeef0eda4fd/output/AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/ayodejimarquis/.android/build-cache/89885ed4117601c727b308722770bcbd8e9d95f8/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ayodejimarquis/.android/build-cache/04a769a73e9cb8c66e6a427255b6481c770090fc/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.4.0] /Users/ayodejimarquis/.android/build-cache/63083f5c0eb774de695950a895ed3ecf6e9f4ccb/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/e07724eefb712b1b2ce8f39e3b73f508ef92eab9/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/efd0835f219b0ed22aab0e656c5ee2ff425cc086/output/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:9.4.0] /Users/ayodejimarquis/.android/build-cache/84f39ead41f2a5ec0a7faef052ee43e412136f81/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:26:5-41:19
 MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/AndroidManifest.xml:26:5-41:19
@@ -40,60 +42,67 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/ayodejimar
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.android/build-cache/6e7a0aff26e5ad72982c0ae93eb364d52bbb7275/output/AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:23.4.0] /Users/ayodejimarquis/.android/build-cache/40088aefa39fd9ac17595087fc84fdfc33b217c2/output/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:9:9-41
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:12:9-35
 	android:allowBackup
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:7:9-35
-	android:icon
 		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:9:9-35
 	android:largeHeap
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:10:9-33
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:11:9-33
 	android:theme
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:13:9-40
 activity#dejimarquis.umasstvguide.MainActivity
-ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:13:9-23:20
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:14:9-24:20
 	android:name
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:13:19-47
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:18:27-74
 meta-data#android.app.searchable
-ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:20:13-22:54
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:21:13-23:54
 	android:resource
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:22:17-51
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:23:17-51
 	android:name
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:21:17-54
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:22:17-54
 activity#dejimarquis.umasstvguide.Main2Activity
-ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:25:9-31:20
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:25:9-33:20
 	android:parentActivityName
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:26:13-55
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:27:13-55
 	android:name
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:25:19-48
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:26:13-42
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:28:13-30:49
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:30:13-32:49
 	android:value
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:30:17-46
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:32:17-46
 	android:name
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:29:17-63
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:31:17-63
+activity#dejimarquis.umasstvguide.InfoActivity
+ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:34:9-59
+	android:name
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:34:19-47
 uses-sdk
 INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/e07724eefb712b1b2ce8f39e3b73f508ef92eab9/output/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/efd0835f219b0ed22aab0e656c5ee2ff425cc086/output/AndroidManifest.xml:5:5-43
 MERGED from [com.google.firebase:firebase-ads:9.4.0] /Users/ayodejimarquis/.android/build-cache/0fd5b9cbaa5772ee40c4fa9c314e0344648f33eb/output/AndroidManifest.xml:4:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/ayodejimarquis/.android/build-cache/b759e34b7a711ded89f921d09cda367173ddaf9f/output/AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:23:5-42
 MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/ayodejimarquis/.android/build-cache/ea08ab0472feed05c56033096ef14afb25d895dc/output/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.android/build-cache/0df828ec674a7fa496a2de6039e9dbeef0eda4fd/output/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/ayodejimarquis/.android/build-cache/89885ed4117601c727b308722770bcbd8e9d95f8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ayodejimarquis/.android/build-cache/04a769a73e9cb8c66e6a427255b6481c770090fc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:23.4.0] /Users/ayodejimarquis/.android/build-cache/63083f5c0eb774de695950a895ed3ecf6e9f4ccb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/ayodejimarquis/.android/build-cache/5d67e01ede150bcd5523936429cb71c8b955246e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/e07724eefb712b1b2ce8f39e3b73f508ef92eab9/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/efd0835f219b0ed22aab0e656c5ee2ff425cc086/output/AndroidManifest.xml:5:5-43
 MERGED from [com.google.firebase:firebase-core:9.4.0] /Users/ayodejimarquis/.android/build-cache/84f39ead41f2a5ec0a7faef052ee43e412136f81/output/AndroidManifest.xml:4:5-42
 MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:18:5-42
 MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/AndroidManifest.xml:18:5-42

@@ -18,7 +18,7 @@
         android:layout_centerHorizontal="true"
         android:smoothScrollbar="true"
         android:scrollingCache="true"
-         />
+        android:layout_above="@+id/adView" />
 
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"

@@ -27,13 +27,15 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
     private Context context;
     private List<String> expandableListTitle;
     private HashMap<String, ArrayList<String>> listings;
+    private HashMap<String, String> showTimes;
     private java.util.Date d1;
 
     public CustomExpandableListAdapter(Context context, List<String> expandableListTitle,
-                                       HashMap<String, ArrayList<String>> listings) {
+                                       HashMap<String, ArrayList<String>> listings, HashMap<String, String> showTimes) {
         this.context = context;
         this.expandableListTitle = expandableListTitle;
         this.listings = listings;
+        this.showTimes = showTimes;
     }
 
     @Override
@@ -99,7 +101,7 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
 
         //time implementation
         SimpleDateFormat format = new SimpleDateFormat("hh:mm a"); //if 24 hour format
-        java.sql.Time initTime = new java.sql.Time(Long.parseLong(listings.get(listTitle).get(listings.get(listTitle).size()-1)));
+        java.sql.Time initTime = new java.sql.Time(Long.parseLong(showTimes.get(listTitle)));
         String time = format.format(initTime);
         times.setText(time);
 

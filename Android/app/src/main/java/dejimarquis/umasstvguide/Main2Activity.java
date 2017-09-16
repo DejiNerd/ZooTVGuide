@@ -50,6 +50,7 @@ public class Main2Activity extends AppCompatActivity {
     private HttpURLConnection httpURLConnection;
     private InputStream inputStream;
     private java.sql.Time initTime;
+    private HashMap<String, String> showTimes = new HashMap<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -118,8 +119,6 @@ public class Main2Activity extends AppCompatActivity {
                 }
                 jsonData = jsonData + line;
             }
-            Log.d("JSON", jsonData);
-            String debug = "";
             JSONArray channelsArray;
             try {
                 channelJson = new JSONObject(jsonData);
@@ -142,7 +141,8 @@ public class Main2Activity extends AppCompatActivity {
                             && showings.getJSONObject(i).getString("description").length() != 0){
                         listingsDescription.add("Description: " + showings.getJSONObject(i).getString("description"));
                     }
-                    listingsDescription.add(showings.getJSONObject(i).get("startTime").toString());
+//                    listingsDescription.add(showings.getJSONObject(i).get("startTime").toString());
+                    showTimes.put(showings.getJSONObject(i).getString("title"), showings.getJSONObject(i).get("startTime").toString());
                     listingsTitle.add(showings.getJSONObject(i).getString("title"));
                     listings.put(showings.getJSONObject(i).getString("title"),listingsDescription);
                 }
@@ -165,7 +165,7 @@ public class Main2Activity extends AppCompatActivity {
                 Toast.makeText(context, "Connection Lost. Swipe to refresh", Toast.LENGTH_LONG).show();
                 swipeRefresh.setRefreshing(false);
             } else {
-                CustomExpandableListAdapter expandableListAdapter = new CustomExpandableListAdapter(context, listingsTitle, listings);
+                CustomExpandableListAdapter expandableListAdapter = new CustomExpandableListAdapter(context, listingsTitle, listings, showTimes);
                 expandableListView.setAdapter(expandableListAdapter);
                 swipeRefresh.setRefreshing(false);
                 //an hr is 300

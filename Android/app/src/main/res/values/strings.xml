@@ -5,5 +5,7 @@
     <string name="search_hint">HBO</string>
     <string name="menu_refresh">refresh</string>
     <string name="banner_ad_unit_id">ca-app-pub-7394787713757498/8475326764</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_information">InformationActivity</string>
 
 </resources>

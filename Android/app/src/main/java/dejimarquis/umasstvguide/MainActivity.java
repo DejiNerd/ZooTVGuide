@@ -5,12 +5,15 @@ package dejimarquis.umasstvguide;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.app.NavUtils;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.SearchView;
 import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.TextView;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
@@ -78,8 +81,22 @@ public class MainActivity extends AppCompatActivity {
                 return true;
             }
         });
-
         return true;
+    }
+
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+
+            // Check if user triggered info:
+            case R.id.information:
+                Intent intent = new Intent(this, InfoActivity.class);
+                startActivity(intent);
+                return true;
+        }
+
+        // User didn't trigger a refresh, let the superclass handle this action
+        return super.onOptionsItemSelected(item);
+
     }
 
     //TODO: purpose of this function?

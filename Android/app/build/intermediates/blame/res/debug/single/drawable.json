@@ -64,6 +64,10 @@
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/cloo_color.png"
     },
     {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/ayodejimarquis/.android/build-cache/63083f5c0eb774de695950a895ed3ecf6e9f4ccb/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/nbc_sport_versus.png",
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/nbc_sport_versus.png"
     },
@@ -252,6 +256,10 @@
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/telemundo_color.png"
     },
     {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/information.png",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/information.png"
+    },
+    {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/cbs_sports_network_color.png",
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/cbs_sports_network_color.png"
     },
@@ -354,6 +362,10 @@
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/ayodejimarquis/.android/build-cache/63083f5c0eb774de695950a895ed3ecf6e9f4ccb/output/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
