@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/zoo.png",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/mipmap-xxxhdpi/zoo.png"
+    },
+    {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },

@@ -4,6 +4,10 @@
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/mipmap-hdpi/dab.png"
     },
     {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/mipmap-hdpi/zoo.png",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/mipmap-hdpi/zoo.png"
+    },
+    {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }

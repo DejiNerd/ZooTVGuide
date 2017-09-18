@@ -67,6 +67,7 @@ public class Main2Activity extends AppCompatActivity {
         mAdView = (AdView) findViewById(R.id.adView2);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
+
         swipeRefresh = (SwipeRefreshLayout) findViewById(R.id.swipeRefresh);
         expandableListView = (ExpandableListView) findViewById(R.id.expandableListView);
         context = this;
@@ -128,7 +129,6 @@ public class Main2Activity extends AppCompatActivity {
                 listingsTitle = new ArrayList<>();
                 for (int i = 0; i < showings.length(); i++){
                     ArrayList<String> listingsDescription = new ArrayList<>();
-                    //listingsDescription.add("Length: " + showings.getJSONObject(i).getInt("length"));
                     if (showings.getJSONObject(i).getString("year") != null && showings.getJSONObject(i).getString("year") !=""
                             && showings.getJSONObject(i).getString("year").length() != 0){
                         listingsDescription.add("Year: " + showings.getJSONObject(i).getString("year"));
@@ -141,7 +141,6 @@ public class Main2Activity extends AppCompatActivity {
                             && showings.getJSONObject(i).getString("description").length() != 0){
                         listingsDescription.add("Description: " + showings.getJSONObject(i).getString("description"));
                     }
-//                    listingsDescription.add(showings.getJSONObject(i).get("startTime").toString());
                     showTimes.put(showings.getJSONObject(i).getString("title"), showings.getJSONObject(i).get("startTime").toString());
                     listingsTitle.add(showings.getJSONObject(i).getString("title"));
                     listings.put(showings.getJSONObject(i).getString("title"),listingsDescription);

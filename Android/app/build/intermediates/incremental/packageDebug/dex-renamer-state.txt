@@ -1,4 +1,4 @@
-#Sat Sep 16 01:57:30 EDT 2017
+#Mon Sep 18 11:23:08 EDT 2017
 base.0=/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_abe66469749e226562cf783043bc98f1cd3e7a5f
 renamed.1=classes.dex
 renamed.0=classes2.dex
