@@ -60,12 +60,12 @@
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/fox_college_sport.png"
     },
     {
-        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/cloo_color.png",
-        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/cloo_color.png"
-    },
-    {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
         "source": "/Users/ayodejimarquis/.android/build-cache/63083f5c0eb774de695950a895ed3ecf6e9f4ccb/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/cloo_color.png",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/cloo_color.png"
     },
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/nbc_sport_versus.png",
@@ -76,12 +76,12 @@
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/espnu.png"
     },
     {
-        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/we_color.png",
-        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/we_color.png"
-    },
-    {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/ifc_color.png",
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/ifc_color.png"
+    },
+    {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/we_color.png",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/we_color.png"
     },
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/bravo_color.png",
@@ -128,12 +128,12 @@
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/usa_network_color.png"
     },
     {
-        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/e_color.png",
-        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/e_color.png"
-    },
-    {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/cspan2_color.png",
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/cspan2_color.png"
+    },
+    {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/e_color.png",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/e_color.png"
     },
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
@@ -252,6 +252,10 @@
         "source": "/Users/ayodejimarquis/.android/build-cache/0df828ec674a7fa496a2de6039e9dbeef0eda4fd/output/res/drawable/common_plus_signin_btn_text_dark.xml"
     },
     {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/unavailable.jpeg",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/unavailable.jpeg"
+    },
+    {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/telemundo_color.png",
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/telemundo_color.png"
     },
@@ -262,10 +266,6 @@
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/cbs_sports_network_color.png",
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/cbs_sports_network_color.png"
-    },
-    {
-        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/unavailable.png",
-        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/unavailable.png"
     },
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",

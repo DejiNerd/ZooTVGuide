@@ -56,7 +56,7 @@ public class ChannelData {
         channels.add(new Channel(16.1,"CNN","cnn_usa_color"));
         channels.add(new Channel(17.1,"BBC America","bbc_america_color"));
         channels.add(new Channel(18.1,"CCTV4","cctv4"));
-        channels.add(new Channel(18.2,"Deutsche Welle?","dw"));
+        //channels.add(new Channel(18.2,"Deutsche Welle?","dw"));
         channels.add(new Channel(19.1,"UVC 19","unavailable"));
         channels.add(new Channel(20.1,"TV Guide","unavailable"));
         channels.add(new Channel(20.2,"Student Life Info Channel","unavailable"));
