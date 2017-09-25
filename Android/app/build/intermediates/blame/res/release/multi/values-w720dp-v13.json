@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/res/values-w720dp-v13/values-w720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 76,
+                        "endOffset": 127
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_1c3e7ed3aa9e02b10a3875c279e96121eefb50d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayodejimarquis/.android/build-cache/63083f5c0eb774de695950a895ed3ecf6e9f4ccb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40a113a19dc1ccf9b5541587b479897098ae4dd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/b759e34b7a711ded89f921d09cda367173ddaf9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_c168c7c8d4d99e8b31c08862c35031d83cf0ba7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_da222133a3ebe9958f5c2c1e8f9d59e64c05739d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/04a769a73e9cb8c66e6a427255b6481c770090fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_3e312bd3bd92705cc57065dda518cd2432080e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_5c9465dccc5b73c7a9bea46025df09fa281cbeaa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayodejimarquis/.android/build-cache/04a769a73e9cb8c66e6a427255b6481c770090fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e312bd3bd92705cc57065dda518cd2432080e42/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/0df828ec674a7fa496a2de6039e9dbeef0eda4fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_bad909c28cab0e740d0554f0bd74a91a85357c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/659b8482999b15832bd4aa636120dbb2027d483f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_92c5ef14c20d2967565014cce2edbae53836f246.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_abe66469749e226562cf783043bc98f1cd3e7a5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/63083f5c0eb774de695950a895ed3ecf6e9f4ccb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_40a113a19dc1ccf9b5541587b479897098ae4dd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_9fa4f710b89bf5dd64bbb58403a7ce24244c22dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/89885ed4117601c727b308722770bcbd8e9d95f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_0f4324cb8b7f8adff8a225bffb0aef08c4a62099.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayodejimarquis/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_9fa4f710b89bf5dd64bbb58403a7ce24244c22dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.1/645f1ad2f6f4cbad1cde4c483eae71e4051be6ef/jsoup-1.10.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="645f1ad2f6f4cbad1cde4c483eae71e4051be6ef">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/jsoup-1.10.1_566ea2b6fb5baf4468b30d1a580342a63a419f72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_0889c50900a80c05005f8ba50503e3a2e58ad425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/5d67e01ede150bcd5523936429cb71c8b955246e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_bc5123f48320dc417f57d2fc7e5139bb374bd1c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayodejimarquis/.android/build-cache/5d67e01ede150bcd5523936429cb71c8b955246e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc5123f48320dc417f57d2fc7e5139bb374bd1c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/ea08ab0472feed05c56033096ef14afb25d895dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_ceaa27a812d5eeb0c326b5b7205d9d8408481c06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/efd0835f219b0ed22aab0e656c5ee2ff425cc086/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_bc432cb95cd24b81851eed08f9d48f01f95ce77d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/e59fef325dba74f7a2700ebef5c0338a03c98e96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_c1778f74ccc8414b95cf188b34e33e5a37dfbf46.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b7ef537d575b51bd8823a0b9a49d250abafe858a">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3466725b2a031ee8f407a3f05bfeb07653718722/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/e07724eefb712b1b2ce8f39e3b73f508ef92eab9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_3cf78adfa5fbd59d0c37f1fe7134394d9dd66965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_c55e92ff3c20ca0eebad6fe27ba912c35c9f457c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/40088aefa39fd9ac17595087fc84fdfc33b217c2/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_bd3540a48bd01a27364dae2dd6bd5c5edfbbdbbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_384571615001e25aedc3b9055215a02cbc2397d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/6e7a0aff26e5ad72982c0ae93eb364d52bbb7275/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_f8dd22b824b0b1eab726be104dc2f9e5764d6eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ayodejimarquis/.android/build-cache/40088aefa39fd9ac17595087fc84fdfc33b217c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/pre-dexed/release/classes_91a8d6b97d50b148bdc2fafde92bd72e122c31df.jar" />
+    </item>
+
+</items>
