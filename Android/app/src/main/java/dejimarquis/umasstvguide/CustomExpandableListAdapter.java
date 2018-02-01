@@ -4,34 +4,28 @@ package dejimarquis.umasstvguide;
  * Created by ayodeji on 9/11/17.
  */
 
-import java.sql.Time;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.List;
 import android.content.Context;
-import android.graphics.Typeface;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.TextView;
 
-import static android.R.attr.format;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 
 public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
 
     private Context context;
     private List<String> expandableListTitle;
-    private HashMap<String, ArrayList<String>> listings;
-    private HashMap<String, String> showTimes;
+    private HashMap<Integer, ArrayList<String>> listings;
+    private HashMap<Integer, String> showTimes;
     private java.util.Date d1;
 
     public CustomExpandableListAdapter(Context context, List<String> expandableListTitle,
-                                       HashMap<String, ArrayList<String>> listings, HashMap<String, String> showTimes) {
+                                       HashMap<Integer, ArrayList<String>> listings, HashMap<Integer, String> showTimes) {
         this.context = context;
         this.expandableListTitle = expandableListTitle;
         this.listings = listings;
@@ -40,7 +34,7 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
 
     @Override
     public Object getChild(int listPosition, int expandedListPosition) {
-        return this.listings.get(this.expandableListTitle.get(listPosition))
+        return this.listings.get(listPosition)
                 .get(expandedListPosition);
     }
 
@@ -66,7 +60,7 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
 
     @Override
     public int getChildrenCount(int listPosition) {
-        return this.listings.get(this.expandableListTitle.get(listPosition))
+        return this.listings.get(listPosition)
                 .size();
     }
 
@@ -96,12 +90,11 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
         }
         TextView listTitleTextView = (TextView) convertView.findViewById(R.id.showings);
         TextView times = (TextView) convertView.findViewById(R.id.timez);
-        //listTitleTextView.setTypeface(null, Typeface.BOLD);
         listTitleTextView.setText(listTitle);
 
         //time implementation
         SimpleDateFormat format = new SimpleDateFormat("hh:mm a"); //if 24 hour format
-        java.sql.Time initTime = new java.sql.Time(Long.parseLong(showTimes.get(listTitle)));
+        java.sql.Time initTime = new java.sql.Time(Long.parseLong(showTimes.get(listPosition)));
         String time = format.format(initTime);
         times.setText(time);
 

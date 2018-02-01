@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/mtv_color.png",
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/mtv_color.png"
+    },
+    {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/espn_classic_color.png",
@@ -36,16 +36,16 @@
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/cloo_color.png"
     },
     {
-        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/necn.png",
-        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/necn.png"
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/fox_hd_color.png",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/fox_hd_color.png"
     },
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/abc_family_color.png",
         "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/abc_family_color.png"
     },
     {
-        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/fox_hd_color.png",
-        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/fox_hd_color.png"
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/necn.png",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/necn.png"
     },
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/fit_tv.png",
@@ -58,6 +58,10 @@
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
         "source": "/Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/unavailable.jpeg",
+        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/unavailable.jpeg"
     },
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_light.xml",
@@ -450,10 +454,6 @@
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
         "source": "/Users/ayodejimarquis/.android/build-cache/63083f5c0eb774de695950a895ed3ecf6e9f4ccb/output/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/unavailable.png",
-        "source": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/res/drawable/unavailable.png"
     },
     {
         "merged": "/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/res/merged/release/drawable/the_weather_channel_color.png",

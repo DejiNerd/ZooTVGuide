@@ -1,56 +1,106 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/728460644fbdea9a787d4ef9b9823cd6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c3464674512fc50af648755830d78503/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-ads:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-ads-9.4.0.aar/6af64f50895d95417089320d1bf0b36f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e1c3e271b4519ca122109ee0060d540b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-core-9.4.0.aar/795bad26d3c2bda205c3e852693d7095/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/38a86a819941ee526762b841db9ec19a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/2c956b39202069f5c985126b63006eef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/adc7da69f252442b821b8090e4f0c328/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/32afceead555ae7a689a8acf37fb0952/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/000e1fe8e11694a13339565eb24f1f03/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/a74276fd629aaae825d86355699fc6a9/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/74023a12c0450ed860572351c708148a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/9243e521944a81fb2869d168d4c471dd/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/5ba752d7e057c052bdbd03ebe016650e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/0e096ea7024dc599dd7a7f4dbe007219/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/d1fefa9befcee5363b3be8d5a27fb4bc/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:1-37:12
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:21:5-67
 	android:name
 		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:5:22-64
 application
 ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:7:5-35:19
-MERGED from [com.google.firebase:firebase-ads:9.4.0] /Users/ayodejimarquis/.android/build-cache/0fd5b9cbaa5772ee40c4fa9c314e0344648f33eb/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/ayodejimarquis/.android/build-cache/ea08ab0472feed05c56033096ef14afb25d895dc/output/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.android/build-cache/0df828ec674a7fa496a2de6039e9dbeef0eda4fd/output/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/ayodejimarquis/.android/build-cache/89885ed4117601c727b308722770bcbd8e9d95f8/output/AndroidManifest.xml:19:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ayodejimarquis/.android/build-cache/04a769a73e9cb8c66e6a427255b6481c770090fc/output/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:23.4.0] /Users/ayodejimarquis/.android/build-cache/63083f5c0eb774de695950a895ed3ecf6e9f4ccb/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/e07724eefb712b1b2ce8f39e3b73f508ef92eab9/output/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/efd0835f219b0ed22aab0e656c5ee2ff425cc086/output/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:9.4.0] /Users/ayodejimarquis/.android/build-cache/84f39ead41f2a5ec0a7faef052ee43e412136f81/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:26:5-41:19
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/AndroidManifest.xml:26:5-41:19
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:30:5-59:19
-MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.android/build-cache/659b8482999b15832bd4aa636120dbb2027d483f/output/AndroidManifest.xml:5:5-12:19
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/ayodejimarquis/.android/build-cache/e59fef325dba74f7a2700ebef5c0338a03c98e96/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.android/build-cache/6e7a0aff26e5ad72982c0ae93eb364d52bbb7275/output/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] /Users/ayodejimarquis/.android/build-cache/40088aefa39fd9ac17595087fc84fdfc33b217c2/output/AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:10:9-41
+MERGED from [com.android.support:design:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/728460644fbdea9a787d4ef9b9823cd6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/728460644fbdea9a787d4ef9b9823cd6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c3464674512fc50af648755830d78503/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c3464674512fc50af648755830d78503/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-ads:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-ads-9.4.0.aar/6af64f50895d95417089320d1bf0b36f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-ads-9.4.0.aar/6af64f50895d95417089320d1bf0b36f/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e1c3e271b4519ca122109ee0060d540b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e1c3e271b4519ca122109ee0060d540b/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-core-9.4.0.aar/795bad26d3c2bda205c3e852693d7095/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-core-9.4.0.aar/795bad26d3c2bda205c3e852693d7095/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/38a86a819941ee526762b841db9ec19a/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/38a86a819941ee526762b841db9ec19a/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/2c956b39202069f5c985126b63006eef/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/2c956b39202069f5c985126b63006eef/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/000e1fe8e11694a13339565eb24f1f03/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/000e1fe8e11694a13339565eb24f1f03/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/a74276fd629aaae825d86355699fc6a9/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/a74276fd629aaae825d86355699fc6a9/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/74023a12c0450ed860572351c708148a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/74023a12c0450ed860572351c708148a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/9243e521944a81fb2869d168d4c471dd/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/9243e521944a81fb2869d168d4c471dd/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/5ba752d7e057c052bdbd03ebe016650e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/5ba752d7e057c052bdbd03ebe016650e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/0e096ea7024dc599dd7a7f4dbe007219/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/0e096ea7024dc599dd7a7f4dbe007219/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/d1fefa9befcee5363b3be8d5a27fb4bc/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/d1fefa9befcee5363b3be8d5a27fb4bc/AndroidManifest.xml:22:5-20
 	android:supportsRtl
 		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:12:9-35
-	android:allowBackup
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:8:9-35
-	android:icon
-		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:10:9-41
 	android:largeHeap
 		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:13:9-40
 activity#dejimarquis.umasstvguide.MainActivity
@@ -91,160 +141,209 @@ ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/Androi
 		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml:34:19-47
 uses-sdk
 INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.google.firebase:firebase-ads:9.4.0] /Users/ayodejimarquis/.android/build-cache/0fd5b9cbaa5772ee40c4fa9c314e0344648f33eb/output/AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/ayodejimarquis/.android/build-cache/b759e34b7a711ded89f921d09cda367173ddaf9f/output/AndroidManifest.xml:19:5-42
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/ayodejimarquis/.android/build-cache/ea08ab0472feed05c56033096ef14afb25d895dc/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.android/build-cache/0df828ec674a7fa496a2de6039e9dbeef0eda4fd/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/ayodejimarquis/.android/build-cache/89885ed4117601c727b308722770bcbd8e9d95f8/output/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ayodejimarquis/.android/build-cache/04a769a73e9cb8c66e6a427255b6481c770090fc/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:23.4.0] /Users/ayodejimarquis/.android/build-cache/63083f5c0eb774de695950a895ed3ecf6e9f4ccb/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/ayodejimarquis/.android/build-cache/5d67e01ede150bcd5523936429cb71c8b955246e/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/e07724eefb712b1b2ce8f39e3b73f508ef92eab9/output/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.android/build-cache/efd0835f219b0ed22aab0e656c5ee2ff425cc086/output/AndroidManifest.xml:5:5-43
-MERGED from [com.google.firebase:firebase-core:9.4.0] /Users/ayodejimarquis/.android/build-cache/84f39ead41f2a5ec0a7faef052ee43e412136f81/output/AndroidManifest.xml:4:5-42
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.android/build-cache/659b8482999b15832bd4aa636120dbb2027d483f/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/ayodejimarquis/.android/build-cache/e59fef325dba74f7a2700ebef5c0338a03c98e96/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.android/build-cache/6e7a0aff26e5ad72982c0ae93eb364d52bbb7275/output/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] /Users/ayodejimarquis/.android/build-cache/40088aefa39fd9ac17595087fc84fdfc33b217c2/output/AndroidManifest.xml:20:5-43
+INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/728460644fbdea9a787d4ef9b9823cd6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/728460644fbdea9a787d4ef9b9823cd6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c3464674512fc50af648755830d78503/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c3464674512fc50af648755830d78503/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.firebase:firebase-ads:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-ads-9.4.0.aar/6af64f50895d95417089320d1bf0b36f/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-ads:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-ads-9.4.0.aar/6af64f50895d95417089320d1bf0b36f/AndroidManifest.xml:4:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e1c3e271b4519ca122109ee0060d540b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e1c3e271b4519ca122109ee0060d540b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-core-9.4.0.aar/795bad26d3c2bda205c3e852693d7095/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-core-9.4.0.aar/795bad26d3c2bda205c3e852693d7095/AndroidManifest.xml:4:5-42
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/38a86a819941ee526762b841db9ec19a/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/38a86a819941ee526762b841db9ec19a/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/2c956b39202069f5c985126b63006eef/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/2c956b39202069f5c985126b63006eef/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/adc7da69f252442b821b8090e4f0c328/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/adc7da69f252442b821b8090e4f0c328/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/32afceead555ae7a689a8acf37fb0952/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.4.0.aar/32afceead555ae7a689a8acf37fb0952/AndroidManifest.xml:19:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/000e1fe8e11694a13339565eb24f1f03/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.4.0.aar/000e1fe8e11694a13339565eb24f1f03/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/a74276fd629aaae825d86355699fc6a9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/a74276fd629aaae825d86355699fc6a9/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/74023a12c0450ed860572351c708148a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.4.0.aar/74023a12c0450ed860572351c708148a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/9243e521944a81fb2869d168d4c471dd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/9243e521944a81fb2869d168d4c471dd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/5ba752d7e057c052bdbd03ebe016650e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/5ba752d7e057c052bdbd03ebe016650e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/0e096ea7024dc599dd7a7f4dbe007219/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/0e096ea7024dc599dd7a7f4dbe007219/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/d1fefa9befcee5363b3be8d5a27fb4bc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/d1fefa9befcee5363b3be8d5a27fb4bc/AndroidManifest.xml:20:5-43
+INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.android/build-cache/d2f05036b127bd5f4b670309b709d35ea8cc86bc/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/c3464674512fc50af648755830d78503/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:20:5-79
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:21:22-76
-activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:26:9-29:64
-	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:28:13-122
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:29:13-61
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:27:13-65
-activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:30:9-31:52
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:31:13-50
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.android/build-cache/a480500719999b0bd34450374ed986a1ab789d94/output/AndroidManifest.xml:30:19-91
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.android/build-cache/0df828ec674a7fa496a2de6039e9dbeef0eda4fd/output/AndroidManifest.xml:20:9-22:45
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.android/build-cache/0df828ec674a7fa496a2de6039e9dbeef0eda4fd/output/AndroidManifest.xml:22:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.android/build-cache/0df828ec674a7fa496a2de6039e9dbeef0eda4fd/output/AndroidManifest.xml:21:19-78
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.android/build-cache/0df828ec674a7fa496a2de6039e9dbeef0eda4fd/output/AndroidManifest.xml:20:19-85
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:22:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:22:5-68
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:22:5-68
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:24:22-65
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:28:7-34:18
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/AndroidManifest.xml:28:7-34:18
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:28:7-34:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:30:11-33
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:30:11-33
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:29:11-83
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:29:11-83
 intent-filter#com.google.android.gms.measurement.UPLOAD
-ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:31:9-33:25
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:31:9-33:25
 action#com.google.android.gms.measurement.UPLOAD
-ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:32:11-77
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:32:11-77
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:32:19-75
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:32:19-75
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:36:7-39:37
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.android/build-cache/5302cafe1066fd0d2ac6fb1e908457f1221ef4b4/output/AndroidManifest.xml:36:7-39:37
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.4.0.aar/1b5c03dfd20250a3dee292e0824f7983/AndroidManifest.xml:36:7-39:37
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:38:11-33
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:38:11-33
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:39:11-35
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:39:11-35
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.android/build-cache/1b5f0d966e4b5432d8f5f9c911836c176136dff4/output/AndroidManifest.xml:37:11-82
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.4.0.aar/a546cf9f8d846ea75c43eaddab862fb7/AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/81210679dd7b9d2ec51e8f393b5d8f3d/AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/a74276fd629aaae825d86355699fc6a9/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/a74276fd629aaae825d86355699fc6a9/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/a74276fd629aaae825d86355699fc6a9/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/a74276fd629aaae825d86355699fc6a9/AndroidManifest.xml:20:19-85
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:23:5-82
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:23:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:23:22-79
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:23:22-79
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:25:5-26:47
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:25:5-26:47
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:26:9-44
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:26:9-44
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:25:17-71
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:25:17-71
+permission#dejimarquis.umasstvguide.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:25:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:28:5-79
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:28:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:28:22-76
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:28:22-76
+uses-permission#dejimarquis.umasstvguide.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:28:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:32:9-41:20
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:32:9-41:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:34:13-36
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:34:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:35:13-73
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:35:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:33:13-78
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:33:13-78
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:36:13-40:29
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:36:13-40:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+dejimarquis.umasstvguide
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:36:13-40:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:37:17-81
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:37:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:37:25-78
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:37:25-78
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:38:17-86
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:38:17-86
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:38:25-83
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:38:25-83
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:39:17-61
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:39:17-61
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:39:27-58
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:39:27-58
+category#dejimarquis.umasstvguide
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:39:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:45:9-47:40
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:45:9-47:40
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:47:13-37
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:46:13-86
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:46:13-86
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:51:9-57:19
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:51:9-57:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:53:13-36
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:53:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:52:13-77
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:52:13-77
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:54:13-56:29
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:54:13-56:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:54:28-51
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:54:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:55:17-80
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:55:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.android/build-cache/9b07999d1dec1bfbce96bfbd5d8fc4f7e33f92d8/output/AndroidManifest.xml:55:25-77
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/efb5296d0dc67e4d08834490a593d98a/AndroidManifest.xml:55:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.android/build-cache/659b8482999b15832bd4aa636120dbb2027d483f/output/AndroidManifest.xml:7:9-11:39
+ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/9243e521944a81fb2869d168d4c471dd/AndroidManifest.xml:7:9-11:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.android/build-cache/659b8482999b15832bd4aa636120dbb2027d483f/output/AndroidManifest.xml:8:13-72
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/9243e521944a81fb2869d168d4c471dd/AndroidManifest.xml:8:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.android/build-cache/659b8482999b15832bd4aa636120dbb2027d483f/output/AndroidManifest.xml:10:13-37
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/9243e521944a81fb2869d168d4c471dd/AndroidManifest.xml:10:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.android/build-cache/659b8482999b15832bd4aa636120dbb2027d483f/output/AndroidManifest.xml:11:13-36
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/9243e521944a81fb2869d168d4c471dd/AndroidManifest.xml:11:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.android/build-cache/659b8482999b15832bd4aa636120dbb2027d483f/output/AndroidManifest.xml:9:13-58
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/firebase-common-9.4.0.aar/9243e521944a81fb2869d168d4c471dd/AndroidManifest.xml:9:13-58
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.android/build-cache/6e7a0aff26e5ad72982c0ae93eb364d52bbb7275/output/AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/0e096ea7024dc599dd7a7f4dbe007219/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.android/build-cache/6e7a0aff26e5ad72982c0ae93eb364d52bbb7275/output/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/0e096ea7024dc599dd7a7f4dbe007219/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.android/build-cache/6e7a0aff26e5ad72982c0ae93eb364d52bbb7275/output/AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/ayodejimarquis/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/0e096ea7024dc599dd7a7f4dbe007219/AndroidManifest.xml:22:13-58

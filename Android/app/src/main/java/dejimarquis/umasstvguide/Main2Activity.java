@@ -29,7 +29,6 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -40,7 +39,7 @@ public class Main2Activity extends AppCompatActivity {
     private ExpandableListView expandableListView;
     private Context context;
     private int channelIndex;
-    private HashMap<String, ArrayList<String>> listings;
+    private HashMap<Integer, ArrayList<String>> listings;
     private ArrayList<String> listingsTitle;
     private String channelName;
     private String jsonData = "";
@@ -49,8 +48,7 @@ public class Main2Activity extends AppCompatActivity {
     private AdView mAdView;
     private HttpURLConnection httpURLConnection;
     private InputStream inputStream;
-    private java.sql.Time initTime;
-    private HashMap<String, String> showTimes = new HashMap<>();
+    private HashMap<Integer, String> showTimes = new HashMap<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -92,9 +90,9 @@ public class Main2Activity extends AppCompatActivity {
         );
     }
 
-    public class ListingDownload extends AsyncTask<String, Integer, HashMap<String, ArrayList<String>>> {
+    public class ListingDownload extends AsyncTask<String, Integer, HashMap<Integer, ArrayList<String>>> {
         @Override
-        protected HashMap<String,ArrayList<String>> doInBackground(String... strings) {
+        protected HashMap<Integer, ArrayList<String>> doInBackground(String... strings) {
             JSONObject channelJson;
             URL url = null;
             try {
@@ -112,7 +110,7 @@ public class Main2Activity extends AppCompatActivity {
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
             String line = "";
 
-            while(line != null) {
+            while (line != null) {
                 try {
                     line = bufferedReader.readLine();
                 } catch (IOException e) {
@@ -127,29 +125,28 @@ public class Main2Activity extends AppCompatActivity {
                 JSONArray showings = channelsArray.getJSONObject(channelIndex).getJSONArray("showings");
                 listings = new HashMap<>();
                 listingsTitle = new ArrayList<>();
-                for (int i = 0; i < showings.length(); i++){
+                for (int i = 0; i < showings.length(); i++) {
                     ArrayList<String> listingsDescription = new ArrayList<>();
-                    if (showings.getJSONObject(i).getString("year") != null && showings.getJSONObject(i).getString("year") !=""
-                            && showings.getJSONObject(i).getString("year").length() != 0){
+                    if (showings.getJSONObject(i).getString("year") != null && showings.getJSONObject(i).getString("year") != ""
+                            && showings.getJSONObject(i).getString("year").length() != 0) {
                         listingsDescription.add("Year: " + showings.getJSONObject(i).getString("year"));
                     }
-                    if (showings.getJSONObject(i).getString("subtitle") != null && showings.getJSONObject(i).getString("subtitle") !=""
-                            && showings.getJSONObject(i).getString("subtitle").length() != 0){
+                    if (showings.getJSONObject(i).getString("subtitle") != null && showings.getJSONObject(i).getString("subtitle") != ""
+                            && showings.getJSONObject(i).getString("subtitle").length() != 0) {
                         listingsDescription.add("Subtitle: " + showings.getJSONObject(i).getString("subtitle"));
                     }
-                    if (showings.getJSONObject(i).getString("description") != null && showings.getJSONObject(i).getString("description") !=""
-                            && showings.getJSONObject(i).getString("description").length() != 0){
+                    if (showings.getJSONObject(i).getString("description") != null && showings.getJSONObject(i).getString("description") != ""
+                            && showings.getJSONObject(i).getString("description").length() != 0) {
                         listingsDescription.add("Description: " + showings.getJSONObject(i).getString("description"));
                     }
-                    showTimes.put(showings.getJSONObject(i).getString("title"), showings.getJSONObject(i).get("startTime").toString());
+                    showTimes.put(i, showings.getJSONObject(i).get("startTime").toString());
                     listingsTitle.add(showings.getJSONObject(i).getString("title"));
-                    listings.put(showings.getJSONObject(i).getString("title"),listingsDescription);
+                    listings.put(i, listingsDescription);
                 }
 
             } catch (JSONException e) {
                 e.printStackTrace();
             }
-            //TODO: Make time more interpretable and third showing doesn't show length
             return listings;
         }
 
@@ -159,7 +156,7 @@ public class Main2Activity extends AppCompatActivity {
         }
 
         @Override
-        protected void onPostExecute(HashMap<String, ArrayList<String>> s) {
+        protected void onPostExecute(HashMap<Integer, ArrayList<String>> s) {
             if (s == null) {
                 Toast.makeText(context, "Connection Lost. Swipe to refresh", Toast.LENGTH_LONG).show();
                 swipeRefresh.setRefreshing(false);
