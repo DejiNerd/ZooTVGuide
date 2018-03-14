@@ -1,4 +1,0 @@
-#Wed Jan 31 22:44:53 EST 2018
-base.0=/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/release/0
-path.0=classes.dex
-renamed.0=classes.dex

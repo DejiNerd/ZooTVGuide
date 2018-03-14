@@ -1,7 +1,0 @@
-#Wed Jan 24 18:48:02 EST 2018
-base.0=/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_abe66469749e226562cf783043bc98f1cd3e7a5f
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3466725b2a031ee8f407a3f05bfeb07653718722/classes.dex
-base.1=/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3466725b2a031ee8f407a3f05bfeb07653718722
-file.0=/Users/ayodejimarquis/Projects/ZooTVGuide/Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_abe66469749e226562cf783043bc98f1cd3e7a5f/classes.dex
