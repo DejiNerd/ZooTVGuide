@@ -1,4 +1,4 @@
-package dejimarquis.umasstvguide;
+package dejimarquis.zootv;
 
 import java.util.ArrayList;
 

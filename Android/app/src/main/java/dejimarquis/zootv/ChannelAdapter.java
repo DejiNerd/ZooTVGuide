@@ -1,4 +1,4 @@
-package dejimarquis.umasstvguide;
+package dejimarquis.zootv;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,7 +8,6 @@ import android.widget.ArrayAdapter;
 import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.ImageView;
-import android.widget.TextClock;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -51,10 +50,10 @@ public class ChannelAdapter extends ArrayAdapter<Channel> implements Filterable 
             row = inflate.inflate(resource, parent, false);
 
             channelHolder = new ChannelHolder();
-            channelHolder.textView = (TextView) row.findViewById(R.id.channelName);
-            channelHolder.noView = (TextView) row.findViewById(R.id.channelNumber);
-            channelHolder.titleView = (TextView) row.findViewById(R.id.nowShowing);
-            channelHolder.imageView = (ImageView) row.findViewById(R.id.imageView);
+            channelHolder.textView = row.findViewById(R.id.channelName);
+            channelHolder.noView = row.findViewById(R.id.channelNumber);
+            channelHolder.titleView = row.findViewById(R.id.nowShowing);
+            channelHolder.imageView = row.findViewById(R.id.imageView);
 
             row.setTag(channelHolder);
         } else {

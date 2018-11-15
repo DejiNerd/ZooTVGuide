@@ -1,4 +1,4 @@
-package dejimarquis.umasstvguide;
+package dejimarquis.zootv;
 
 /**
  * Created by DejiNerd on 5/28/2016.

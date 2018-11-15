@@ -1,6 +1,4 @@
-package dejimarquis.umasstvguide;
-
-import org.junit.Test;
+package dejimarquis.zootv;
 
 import static junit.framework.Assert.assertEquals;
 import static junit.framework.Assert.assertNotNull;

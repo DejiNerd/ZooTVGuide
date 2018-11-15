@@ -1,4 +1,4 @@
-package dejimarquis.umasstvguide;
+package dejimarquis.zootv;
 
 //Created by DejiNerd
 
@@ -54,8 +54,8 @@ public class MainActivity extends AppCompatActivity {
         listingDownload = new ListingDownload();
         listingDownload.execute(URL);
         //initialize ads
-        MobileAds.initialize(getApplicationContext(), "ca-app-pub-7394787713757498~4045127165");
-        mAdView = (AdView) findViewById(R.id.adView);
+        MobileAds.initialize(this, "ca-app-pub-7394787713757498~4045127165");
+        mAdView = findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
     }
@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
 
             //initialize listView
             temp = new ChannelData(titles);
-            listView = (ListView) findViewById(R.id.listView);
+            listView = findViewById(R.id.listView);
             channelAdapter = new ChannelAdapter(getApplicationContext(), R.layout.row, temp.getChannels());
             listView.setAdapter(channelAdapter);
             listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {

@@ -1,4 +1,4 @@
-package dejimarquis.umasstvguide;
+package dejimarquis.zootv;
 
 /**
  * Created by ayodeji on 9/11/17.
@@ -52,7 +52,7 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
                     .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             convertView = layoutInflater.inflate(R.layout.showings_description, null);
         }
-        TextView expandedListTextView = (TextView) convertView
+        TextView expandedListTextView = convertView
                 .findViewById(R.id.showings_description);
         expandedListTextView.setText(expandedListText);
         return convertView;
@@ -88,8 +88,8 @@ public class CustomExpandableListAdapter extends BaseExpandableListAdapter {
                     getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             convertView = layoutInflater.inflate(R.layout.showings, null);
         }
-        TextView listTitleTextView = (TextView) convertView.findViewById(R.id.showings);
-        TextView times = (TextView) convertView.findViewById(R.id.timez);
+        TextView listTitleTextView = convertView.findViewById(R.id.showings);
+        TextView times = convertView.findViewById(R.id.timez);
         listTitleTextView.setText(listTitle);
 
         //time implementation

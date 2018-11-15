@@ -48,9 +48,10 @@
             android:layout_alignLeft="@+id/channelName"
             android:layout_alignStart="@+id/channelName"
             android:layout_below="@+id/channelName"
+            android:layout_gravity="start"
             android:text="TextView"
             android:textAlignment="viewStart"
-            android:textColor="@color/common_plus_signin_btn_text_light_focused"
+            android:textColor="@color/common_google_signin_btn_text_light_focused"
             android:textSize="12sp"
             tools:text="Now Showing: Game of Thrones" />
 

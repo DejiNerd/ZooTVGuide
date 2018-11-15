@@ -1,4 +1,4 @@
-package dejimarquis.umasstvguide;
+package dejimarquis.zootv;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -11,7 +11,7 @@ public class InfoActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_info);
-        TextView information = (TextView) findViewById(R.id.inform);
+        TextView information = findViewById(R.id.inform);
         information.setText("Hey you! Welcome to ZooTV. ZooTV is a TV guide for UMass Amherst. Use the search bar to search for channels or titles. " +
                 "\n\nMade with ❤️ by Deji, Timi, and Peter. The iOS app was developed and is maintained by Peter. " +
                 "The Android app was developed and is maintained by Deji. The idea was Timi's. Slide into our DMs if you have any questions, comments, or concerns. " +
